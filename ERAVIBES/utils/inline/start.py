@@ -30,7 +30,7 @@ def private_panel(_):
 
 [InlineKeyboardButton(text="˹ ᴧʙᴏᴜᴛ ˼", url=config.SUPPORT_CHAT),
 
-InlineKeyboardButton(text="Repo", url=config.SUPPORT_CHAT),
+InlineKeyboardButton(text="˹ ʀᴇᴘᴏ ˼", url="https//t.me/ur_rishu_143"),
         ],
     ]
     return buttons
