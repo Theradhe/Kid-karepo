@@ -26,9 +26,11 @@ def private_panel(_):
         ],
         [
             InlineKeyboardButton(text=_["S_B_5"], user_id=config.OWNER_ID),
-              InlineKeyboardButton(text="˹ ᴍᴜsɪᴄ ˼", callback_data="settings_back_helper")],
+              InlineKeyboardButton(text="˹ ᴍᴜsɪᴄ ˼", callback_data="settings_back_helper")
+       ],
+       [
 
-[InlineKeyboardButton(text="˹ ᴧʙᴏᴜᴛ ˼", url=config.SUPPORT_CHAT),
+InlineKeyboardButton(text="˹ ᴧʙᴏᴜᴛ ˼", url="https//t.me/ur_rishu_143"),
 
 InlineKeyboardButton(text="˹ ʀᴇᴘᴏ ˼", url="https//t.me/ur_rishu_143"),
         ],
