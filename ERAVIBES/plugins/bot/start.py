@@ -25,7 +25,10 @@ from strings import get_string
 
 IMAGE = [
 "https://envs.sh/kJw.jpg",
-"https://envs.sh/kSk.jpg",
+"https://envs.sh/kSk.jpg",
+"https://envs.sh/kJB.jpg",
+"https://envs.sh/kJW.jpg",
+"https://envs.sh/kJ0.jpg",
 ]
 
 # Updated list with emojis
