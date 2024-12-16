@@ -6,7 +6,7 @@ from pyrogram.types import (
     InlineKeyboardButton,
 )
 
-@app.on_callback_query(filters.regex("gibt_source"))
+@app.on_callback_query(filters.regex("aboutw"))
 async def gib_repo(client, CallbackQuery: CallbackQuery):
     await CallbackQuery.edit_message_media(
         InputMediaVideo(
