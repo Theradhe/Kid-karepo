@@ -79,6 +79,25 @@ def help_back_markup(_):
     )
     return upl
 
+def helps_back_markup(_):
+    upl = InlineKeyboardMarkup(
+        [
+            [
+                InlineKeyboardButton(
+                    text=_["BACK_BUTTON"],
+                    callback_data=f"settingsback_helper",
+                ),
+            ],
+            [
+            InlineKeyboardButton(
+                text=_["S_B_4"],
+                url=f"https://t.me/{app.username}?start=help",
+            ),
+          ]
+
+        ]
+    )
+    return upl
 
 def private_help_panel(_):
     buttons = [
