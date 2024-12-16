@@ -9,8 +9,6 @@ HELP_1 = """<blockquote>❖ ᴍᴜsɪᴄ ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅs</blockqu
 ❍ /player ➥ ɢᴇᴛ ᴀ ɪɴᴛᴇʀᴀᴄᴛɪᴠᴇ ᴩʟᴀʏᴇʀ ᴩᴀɴᴇʟ.
 ❍ /queue ➥ sʜᴏᴡs ᴛʜᴇ ǫᴜᴇᴜᴇᴅ ᴛʀᴀᴄᴋs ʟɪsᴛ.
 
-
-
 ❖ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➥ @Rishu_MusicBot**
 """
 
