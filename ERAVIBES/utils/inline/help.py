@@ -73,7 +73,13 @@ def help_back_markup(_):
                     text=_["BACK_BUTTON"],
                     callback_data=f"settingsback_helper",
                 ),
-            ]
+            ],
+            [
+            InlineKeyboardButton(
+                text=_["S_B_4"],
+                url=f"https://t.me/{app.username}?start=help",
+            ),
+          ]
         ]
     )
     return upl
