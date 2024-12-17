@@ -29,7 +29,7 @@ def private_panel(_):
             InlineKeyboardButton(text="˹ ᴍᴜsɪᴄ ˼", callback_data="help_callback hb1"),
         ],
        [InlineKeyboardButton(text=_["S_B_4"], callback_data="help_callback hb2"),
-            InlineKeyboardButton(text="˹ ʀᴇᴘᴏ ˼", url=config.SUPPORT_CHAT),
+            InlineKeyboardButton(text="˹ ʀᴇᴘᴏ ˼", url=f"https://github.com/RishuBot/Rishu_Music"),
         ],
     ]
     return buttons
