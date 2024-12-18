@@ -27,7 +27,7 @@ IMAGE = [
 
 #--------------------------
 
-MUST_JOIN = "ai_image_junction"
+MUST_JOIN = "DP_WORLD7"
 #------------------------
 @app.on_message(filters.incoming & filters.private, group=-1)
 async def must_join_channel(app: Client, msg: Message):
@@ -38,7 +38,7 @@ async def must_join_channel(app: Client, msg: Message):
             await app.get_chat_member(MUST_JOIN, msg.from_user.id)
         except UserNotParticipant:
             if MUST_JOIN.isalpha():
-                link = "https://t.me/" + MUST_JOIN
+                link = "https://t.me/ll_BOTCHAMBER_ll" + MUST_JOIN
             else:
                 chat_info = await app.get_chat(MUST_JOIN)
                 link = chat_info.invite_link
@@ -47,8 +47,8 @@ async def must_join_channel(app: Client, msg: Message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                             [
-                                InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/krishsupport"),
-                                InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇ", url=link),
+                                InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/ll_BOTCHAMBER_ll"),
+                                InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇ", url="https://t.me/DP_WORLD7"),
                             ]
                         ]
                     )
