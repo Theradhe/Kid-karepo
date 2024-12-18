@@ -1,12 +1,12 @@
 {
-    "name": "Rishu Music",
+    "name": "Radhe Music",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://envs.sh/3dC.jpg",
+    "logo": "https://envs.sh/8K_.jpg",
     "keywords": [
     "python3",
     "telegram",
     "bot",
-    "Rishu",
+    "Radhe",
     "MusicBot",
     "telegram-bot",
     "pyrogram"
@@ -34,7 +34,7 @@
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
-        "value": "5738579437",
+        "value": "6726372149",
         "required": true
       },
       "STRING_SESSION": {
