@@ -50,12 +50,12 @@ async def init():
         pass
     await ERA.decorators()
     LOGGER("ERAVIBES").info(
-        "✦ Created By ➥ The Rishu...🐝"
+        "✦ Created By ➥ The Radhe...🐝"
     )
     await idle()
     await app.stop()
     await userbot.stop()
-    LOGGER("ERAVIBES").info("❖ Stopping Rishu Music Bot...💌")
+    LOGGER("ERAVIBES").info("❖ Stopping Radhe Music Bot...💌")
 
 
 if __name__ == "__main__":
