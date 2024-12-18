@@ -34,10 +34,10 @@
 
 
 <p align="center">
-<a href="https://telegram.me/rishu1286"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝗥𝗜𝗦𝗛𝗨%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/ll_SAN4TANI_ll"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝗥𝗔𝗗𝗛𝗘%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://telegram.me/rishu1286"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝗥𝗜𝗦𝗛𝗨%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/ll_SAN4ATANI_ll"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝗥𝗔𝗗𝗛𝗘%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
